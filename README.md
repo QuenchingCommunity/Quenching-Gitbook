@@ -8,11 +8,13 @@ description: 淬火 3.5 系列 Electron 客户端与 MOD 使用手册
 
 本手册面向 **淬火 3.5 系列 Electron 客户端**。旧 WPF 客户端的按钮、截图和 .NET 安装步骤不适用于这一版。近期测试版的安装弹窗、重新安装文案和资源对齐修复，见[客户端与资源包更新](an-zhuang/geng-xin.md)中的版本说明。
 
+> 本手册正文主要按 3.5 系列编写；当前客户端下载和资源包入口指向各自最新稳定发布。新版本的包名、平台支持和更新条件以对应 Release 说明为准，客户端与资源包版本号分别维护。
+
 ## 下载与开始使用
 
 - [官方网站](https://qm.txzy.net/)：公告、下载入口与资源说明。
-- [Windows 和 Mac 客户端](https://github.com/UIZorrot/Quenching-Client/releases/tag/3.5)：下载便携 ZIP，解压后运行。
-- [完整 MOD 资源包](https://github.com/UIZorrot/Quenching-Assets/releases/tag/3.5)：用于补齐模型、纹理等游戏资源。
+- [Windows 和 Mac 客户端](https://github.com/QuenchingCommunity/Quenching-Client/releases/latest)：下载便携 ZIP，解压后运行。
+- [完整 MOD 资源包](https://github.com/QuenchingCommunity/Quenching-Assets/releases/latest)：用于补齐模型、纹理等游戏资源。
 
 第一次使用请读[常规安装](an-zhuang/chang-gui-an-zhuang.md)。Mac 用户请读[Mac 安装](an-zhuang/mac-an-zhuang.md)。
 
@@ -52,3 +54,4 @@ Mac 用户使用 `QMClient.app`。当前 3.5 Release 的 Mac 包面向 Apple Sil
 - [功能说明](gong-neng/README.md)
 
 反馈时请附客户端版本、游戏版本、Retail/PTR 分支、SD/HD/DE 画质和完整错误截图。
+
